@@ -3,7 +3,7 @@
     <!-- <h1>{{ msg }}</h1> -->
     <div
       class="min-h-screen container m-auto flex items-center justify-center w-full">
-      <div class="grid grid-cols-1 gap-4">
+      <div class="grid grid-cols-1 gap-4 w-1/3">
         <div class="border border-1 p-4 bg-gray-100 w-full">
           <h1 class="text-3xl font-bold text-black">Login</h1>
           <div class="mt-4 flex flex-col w-full">
